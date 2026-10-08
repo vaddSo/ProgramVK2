@@ -1,0 +1,16 @@
+C:\Users\evpal\Desktop\Weather\bin\Debug\net8.0\WeatherApp.exe
+C:\Users\evpal\Desktop\Weather\bin\Debug\net8.0\WeatherApp.deps.json
+C:\Users\evpal\Desktop\Weather\bin\Debug\net8.0\WeatherApp.runtimeconfig.json
+C:\Users\evpal\Desktop\Weather\bin\Debug\net8.0\WeatherApp.dll
+C:\Users\evpal\Desktop\Weather\bin\Debug\net8.0\WeatherApp.pdb
+C:\Users\evpal\Desktop\Weather\obj\Debug\net8.0\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evpal\Desktop\Weather\obj\Debug\net8.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\evpal\Desktop\Weather\obj\Debug\net8.0\WeatherApp.AssemblyInfo.cs
+C:\Users\evpal\Desktop\Weather\obj\Debug\net8.0\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\evpal\Desktop\Weather\obj\Debug\net8.0\WeatherApp.dll
+C:\Users\evpal\Desktop\Weather\obj\Debug\net8.0\refint\WeatherApp.dll
+C:\Users\evpal\Desktop\Weather\obj\Debug\net8.0\WeatherApp.pdb
+C:\Users\evpal\Desktop\Weather\obj\Debug\net8.0\WeatherApp.genruntimeconfig.cache
+C:\Users\evpal\Desktop\Weather\obj\Debug\net8.0\ref\WeatherApp.dll
+C:\Users\evpal\Desktop\Weather\bin\Debug\net8.0\cities.txt
+C:\Users\evpal\Desktop\Weather\obj\Debug\net8.0\WeatherApp.sourcelink.json
